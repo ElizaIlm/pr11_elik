@@ -8,7 +8,7 @@ using System.Windows;
 // набор атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
 [assembly: AssemblyTitle("TimeLord_ilmasheva")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Данное приложение позволяет измерять интервалы времени с точностью до долей секунды.», авторские права сохранить за собой")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("TimeLord_ilmasheva")]
